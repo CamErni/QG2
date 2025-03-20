@@ -143,3 +143,4 @@ Development, build and quality processes are based on [angular-cli](https://gith
 - [Using a backend proxy for development](docs/backend-proxy.md)
 - [Browser routing](docs/routing.md)
   "# QG2"
+  "# QG2"
